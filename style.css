@@ -19,6 +19,10 @@ html {
 	width: 250px;
 	height: 300px;
 }
+h3 {
+	color: black;
+	font-family: arial;
+}
 .products {
 	float: right; 
 	width: 85%; 
