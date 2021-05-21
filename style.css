@@ -6,4 +6,10 @@
 html {
 	background-image: url(backimage.jpg);
 }
-
+#box {
+	width: 18%;
+	float: left;
+	margin: auto;
+	margin-left: 15px;
+	font-size: 16pt;
+}
