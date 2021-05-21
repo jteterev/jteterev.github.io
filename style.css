@@ -4,6 +4,6 @@
 	text-align: center;
 }
 html {
-	background: url(backimage.jpg);
+	background-image: url(backimage.jpg);
 }
 
