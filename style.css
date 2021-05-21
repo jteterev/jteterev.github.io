@@ -7,7 +7,8 @@ html {
 	background-image: url(backimage.jpg);
 }
 #box {
-	width: 20%;
+	width: 450px;
+	height: 500px;
 	float: left;
 	margin: auto;
 	margin-left: 15px;
