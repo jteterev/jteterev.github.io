@@ -1,0 +1,9 @@
+.menu {
+	float: right; 
+	width: 25%;
+	text-align: center;
+}
+.wrapper {
+	background-image: backimage.jpg;
+}
+}
