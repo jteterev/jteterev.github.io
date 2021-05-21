@@ -1,7 +1,7 @@
 .menu {
 	float: left; 
 	width: 25%;
-	text-align: center;
+	text-align: left;
 }
 html {
 	background-image: url(backimage.jpg);
@@ -20,6 +20,6 @@ html {
 	text-align: center;
 	color: black;
 	font-size: 15pt;
-	background-color: #898989;
+	background-color: #03A203;
 	font-family: Luminari, fantasy;
 }
