@@ -13,3 +13,13 @@ html {
 	margin-left: 15px;
 	font-size: 16pt;
 }
+.products {
+	float: right; 
+	width: 75%; 
+	border-radius: 25px;
+	text-align: center;
+	color: black;
+	font-size: 15pt;
+	background-color: #898989;
+	font-family: Luminari, fantasy;
+}
