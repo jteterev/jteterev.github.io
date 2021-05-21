@@ -7,10 +7,11 @@ html {
 	background-image: url(backimage.jpg);
 }
 #box {
-	width: 15%;
+	width: 25%;
 	float: left;
 	margin: auto;
 	margin-left: 15px;
+	margin-bottom: 10px;
 	font-size: 16pt;
 }
 .products {
