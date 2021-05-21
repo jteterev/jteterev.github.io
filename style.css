@@ -3,7 +3,7 @@
 	width: 25%;
 	text-align: center;
 }
-.wrapper {
+html {
 	background: url(backimage.jpg);
 }
-}
+
